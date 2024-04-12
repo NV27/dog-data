@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(253, 249, 212);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mega{
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-wrap: wrap; */
+    /* max-width: auto; */
+}
+
+.dog{
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(252, 222, 186);
+    border-radius: 10px;
+    max-width: 500px;
+}
+
+h1{
+    font-size: larger;
+}
